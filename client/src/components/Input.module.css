@@ -1,0 +1,9 @@
+.input {
+  color: white;
+  background-color: black;
+}
+
+.form_control:focus {
+  color: white !important;
+  background-color: black !important;
+}
